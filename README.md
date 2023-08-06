@@ -47,20 +47,20 @@
 ## Build & Flash
 - Check if ST-Link is able to communicate with MCU
   ```sh
-  make probe
+  make clean
   ```
 - Build ARM Binary
   ```sh
-  make clean all
+  make all
   ```
 - Flash!
   ```sh
-  make flash
+  make load
   ```
 ***STlink may require superuser permission on MacOS/Linux
 ## Pin Logic
 - Look at the LED-Display so that a small circle appears on your top left corner. 
-- Let's label the pins from left to right 1->2->3->4->5
+- Let's label the pins up , down  or middle
 - Pin 3 from TOP or BOTTOM side should be connected to GND
 
 ## Serial Communication
