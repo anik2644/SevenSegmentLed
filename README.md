@@ -14,7 +14,7 @@
 - [stlink-tools](https://github.com/stlink-org/stlink)
 - [```find```](https://www.gnu.org/software/findutils/)
 - [```make```](https://www.gnu.org/software/make/manual/make.html)
-
+- [```openocd```](https://gnutoolchains.com/arm-eabi/openocd/)
 ## Installation
 - ### Ubuntu/Debian
   ```sh
