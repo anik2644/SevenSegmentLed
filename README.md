@@ -39,6 +39,7 @@
   arm-none-eabi-gcc --version
   find --version
   make --version
+  openocd --version
   ```
 - If any of these tools is not accessible or not working properly then fix it first.
 
